@@ -10,14 +10,14 @@ A console-based Library Management System written in F#.
 - **Persistence**: Data is automatically saved to `library.json`.
 
 ## Prerequisites
-- [.NET SDK](https://dotnet.microsoft.com/download) (The project currently targets .NET 5.0, but runs on newer SDKs).
+- [.NET SDK](https://dotnet.microsoft.com/download)
 
 ## How to Run
 
 1.  **Open a terminal** (Command Prompt, PowerShell, or your preferred terminal).
 2.  **Navigate to the project directory**:
     ```bash
-    cd "c:\MZ\Programming\antigravity test\LibrarySystem"
+    cd [path]
     ```
 3.  **Run the application**:
     ```bash
