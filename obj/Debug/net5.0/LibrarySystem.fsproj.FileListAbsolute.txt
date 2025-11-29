@@ -26,3 +26,32 @@ C:\MZ\Programming\antigravity test\LibrarySystem\obj\Debug\net5.0\LibraryS.30DB0
 C:\MZ\Programming\antigravity test\LibrarySystem\obj\Debug\net5.0\LibrarySystem.dll
 C:\MZ\Programming\antigravity test\LibrarySystem\obj\Debug\net5.0\LibrarySystem.pdb
 C:\MZ\Programming\antigravity test\LibrarySystem\obj\Debug\net5.0\LibrarySystem.genruntimeconfig.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.exe
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.deps.json
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.runtimeconfig.json
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.runtimeconfig.dev.json
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\LibrarySystem.pdb
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\FSharp.Core.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.fsproj.AssemblyReference.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.AssemblyInfo.fs
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.fsproj.CoreCompileInputs.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.sourcelink.json
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibraryS.30DB08EC.Up2Date
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.dll
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.pdb
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\obj\Debug\net5.0\LibrarySystem.genruntimeconfig.cache

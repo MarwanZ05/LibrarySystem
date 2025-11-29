@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MZ\\Programming\\antigravity test\\LibrarySystem\\LibrarySystem.fsproj",
+      "projectUniqueName": "C:\\MZ\\Uni\\Year 4\\Semester 1\\Programming Languages-3\\PL3 Project\\LibrarySystem\\LibrarySystem.fsproj",
       "projectName": "LibrarySystem",
-      "projectPath": "C:\\MZ\\Programming\\antigravity test\\LibrarySystem\\LibrarySystem.fsproj",
+      "projectPath": "C:\\MZ\\Uni\\Year 4\\Semester 1\\Programming Languages-3\\PL3 Project\\LibrarySystem\\LibrarySystem.fsproj",
       "packagesPath": "C:\\Users\\Marwan Zaki\\.nuget\\packages\\",
-      "outputPath": "C:\\MZ\\Programming\\antigravity test\\LibrarySystem\\obj\\",
+      "outputPath": "C:\\MZ\\Uni\\Year 4\\Semester 1\\Programming Languages-3\\PL3 Project\\LibrarySystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marwan Zaki\\AppData\\Roaming\\NuGet\\NuGet.Config"
