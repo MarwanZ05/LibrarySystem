@@ -21,7 +21,7 @@ A cross-platform Desktop Library Management System written in F# using **Avaloni
 1.  **Open a terminal**.
 2.  **Navigate to the project directory**:
     ```bash
-    cd "c:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem"
+    cd "[directory]"
     ```
 3.  **Run the application**:
     - **GUI Mode** (Default):
