@@ -1,6 +1,6 @@
 # Library Management System
 
-A cross-platform Desktop Library Management System written in F# using **Avalonia.FuncUI**.
+A cross-platform Desktop Library Management System written in F# using **Avalonia.FuncUI**. For comprehensive architecture and usage documentation, see [DOCUMENTATION.md](DOCUMENTATION.md).
 
 ## Features
 - **Library Tab**:
