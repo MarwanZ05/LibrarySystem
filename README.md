@@ -1,38 +1,41 @@
 # Library Management System
 
-A console-based Library Management System written in F#.
+A cross-platform Desktop Library Management System written in F# using **Avalonia.FuncUI**.
 
 ## Features
-- **Add Book**: Add new books with title and author.
-- **Search Books**: Find books by title or author.
-- **Borrow/Return**: Manage book availability.
-- **List Books**: View all books and their status.
+- **Library Tab**:
+    - Browse all books.
+    - Search by title or author.
+    - Borrow available books.
+    - Return borrowed books.
+- **Admin Panel**:
+    - Add new books via a dialog.
+    - Remove books from the library.
 - **Persistence**: Data is automatically saved to `library.json`.
 
 ## Prerequisites
-- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 ## How to Run
 
-1.  **Open a terminal** (Command Prompt, PowerShell, or your preferred terminal).
+1.  **Open a terminal**.
 2.  **Navigate to the project directory**:
     ```bash
-    cd [path]
+    cd "c:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem"
     ```
 3.  **Run the application**:
-    ```bash
-    dotnet run
-    ```
-
-## How to Build
-To compile the project without running it:
-```bash
-dotnet build
-```
+    - **GUI Mode** (Default):
+        ```bash
+        dotnet run
+        ```
+    - **CLI Mode**:
+        ```bash
+        dotnet run -- cli
+        ```
 
 ## Project Structure
 - `Domain.fs`: Core data types (`Book`, `Library`).
 - `Storage.fs`: JSON file handling.
-- `Operations.fs`: Business logic (Add, Search, Borrow, Return).
-- `UI.fs`: User interface and menu loop.
-- `Program.fs`: Application entry point.
+- `Operations.fs`: Pure business logic (Add, Remove, Search, Borrow, Return).
+- `Gui.fs`: Avalonia.FuncUI implementation (State, Msg, View).
+- `Program.fs`: Application entry point (AppBuilder configuration).
