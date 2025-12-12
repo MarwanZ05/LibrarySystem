@@ -33,6 +33,12 @@ A cross-platform Desktop Library Management System written in F# using **Avaloni
         dotnet run -- cli
         ```
 
+## Testing
+To run the automated tests:
+```bash
+dotnet test LibrarySystem.Tests
+```
+
 ## Project Structure
 - `Domain.fs`: Core data types (`Book`, `Library`).
 - `Storage.fs`: JSON file handling.

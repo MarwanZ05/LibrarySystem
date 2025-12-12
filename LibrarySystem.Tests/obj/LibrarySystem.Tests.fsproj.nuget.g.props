@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Marwan Zaki\.nuget\packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.testing.platform\1.4.3\buildTransitive\net8.0\Microsoft.Testing.Platform.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.platform\1.4.3\buildTransitive\net8.0\Microsoft.Testing.Platform.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.4.3\buildTransitive\net8.0\Microsoft.Testing.Platform.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.4.3\buildTransitive\net8.0\Microsoft.Testing.Platform.MSBuild.props')" />
+    <Import Project="$(NuGetPackageRoot)xunit.v3.core\1.0.0\build\xunit.v3.core.props" Condition="Exists('$(NuGetPackageRoot)xunit.v3.core\1.0.0\build\xunit.v3.core.props')" />
+    <Import Project="$(NuGetPackageRoot)xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.props" Condition="Exists('$(NuGetPackageRoot)xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.props')" />
+    <Import Project="$(NuGetPackageRoot)xunit.core\2.9.3\build\xunit.core.props" Condition="Exists('$(NuGetPackageRoot)xunit.core\2.9.3\build\xunit.core.props')" />
+    <Import Project="$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.6\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.6\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.testplatform.testhost\17.14.1\build\net8.0\Microsoft.TestPlatform.TestHost.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testplatform.testhost\17.14.1\build\net8.0\Microsoft.TestPlatform.TestHost.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codecoverage\17.14.1\build\netstandard2.0\Microsoft.CodeCoverage.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codecoverage\17.14.1\build\netstandard2.0\Microsoft.CodeCoverage.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.props')" />
+    <Import Project="$(NuGetPackageRoot)harfbuzzsharp.nativeassets.webassembly\7.3.0\buildTransitive\netstandard1.0\HarfBuzzSharp.NativeAssets.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)harfbuzzsharp.nativeassets.webassembly\7.3.0\buildTransitive\netstandard1.0\HarfBuzzSharp.NativeAssets.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)avalonia\11.0.6\buildTransitive\Avalonia.props" Condition="Exists('$(NuGetPackageRoot)avalonia\11.0.6\buildTransitive\Avalonia.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\xunit.analyzers\1.18.0</Pkgxunit_analyzers>
+    <Pkgxunit_runner_visualstudio Condition=" '$(Pkgxunit_runner_visualstudio)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\xunit.runner.visualstudio\3.1.4</Pkgxunit_runner_visualstudio>
+    <Pkgxunit Condition=" '$(Pkgxunit)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\xunit\2.9.3</Pkgxunit>
+    <PkgMicrosoft_NET_Test_Sdk Condition=" '$(PkgMicrosoft_NET_Test_Sdk)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\microsoft.net.test.sdk\17.14.1</PkgMicrosoft_NET_Test_Sdk>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\fsharp.core\10.0.100</PkgFSharp_Core>
+    <PkgAvalonia_BuildServices Condition=" '$(PkgAvalonia_BuildServices)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\avalonia.buildservices\0.0.29</PkgAvalonia_BuildServices>
+    <PkgAvalonia Condition=" '$(PkgAvalonia)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\avalonia\11.0.6</PkgAvalonia>
+    <PkgFsUnit_xUnit Condition=" '$(PkgFsUnit_xUnit)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\fsunit.xunit\7.1.1</PkgFsUnit_xUnit>
+    <Pkgcoverlet_collector Condition=" '$(Pkgcoverlet_collector)' == '' ">C:\Users\Marwan Zaki\.nuget\packages\coverlet.collector\6.0.4</Pkgcoverlet_collector>
+  </PropertyGroup>
+</Project>

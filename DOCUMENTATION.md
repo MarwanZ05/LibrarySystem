@@ -33,6 +33,11 @@ The interface for library administrators.
 - **Add Book**: Renders a modal overlay dialog to input Title and Author.
 - **Remove Book**: Allows deletion of selected books from the system.
 
+## Testing Strategy
+The project uses **xUnit** and **FsUnit** for unit testing.
+- **Unit Tests**: Focus on `Operations.fs` since it contains pure functions representing the core business logic.
+- **Integration/UI**: Manual verification is currently used for UI and Persistence layers.
+
 ## Data Persistence
 The application loads data from `library.json` on startup. Every state-changing operation (Add, Remove, Borrow, Return) triggers a save to this file immediately, ensuring data consistency.
 

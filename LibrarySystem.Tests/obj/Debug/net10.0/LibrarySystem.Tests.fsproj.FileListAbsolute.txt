@@ -1,0 +1,10 @@
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_LibrarySystem.Tests
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_LibrarySystem.Tests
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.fsproj.AssemblyReference.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.AssemblyInfoInputs.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.AssemblyInfo.fs
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.fsproj.CoreCompileInputs.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.genautoregisteredextensionsinputcache.cache
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\AutoRegisteredExtensions.fs
+C:\MZ\Uni\Year 4\Semester 1\Programming Languages-3\PL3 Project\LibrarySystem\LibrarySystem.Tests\obj\Debug\net10.0\LibrarySystem.Tests.sourcelink.json
