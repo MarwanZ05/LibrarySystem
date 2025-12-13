@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lckE4FrL6e8=",
+  "dgSpecHash": "ddZtkq14ZmA=",
   "success": true,
-  "projectFilePath": "C:\\MZ\\Uni\\Year 4\\Semester 1\\Programming Languages-3\\PL3 Project\\LibrarySystem\\LibrarySystem.Tests\\LibrarySystem.Tests.fsproj",
+  "projectFilePath": "C:\\MZ\\Uni\\Year 4\\Semester 1\\Programming Languages-3\\PL3 Project\\LibrarySystem\\LibrarySystem.tests\\LibrarySystem.Tests.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marwan Zaki\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\Marwan Zaki\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
