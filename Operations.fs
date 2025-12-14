@@ -16,6 +16,7 @@ let addBook (title: string) (author: string) (library: Library) =
 let removeBook (id: BookId) (library: Library) =
     { library with Books = library.Books |> List.filter (fun b -> b.Id <> id) }
 
+
 let searchBooks (query: string) (library: Library) =
     library.Books 
     |> List.filter (fun b -> 
