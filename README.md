@@ -6,7 +6,7 @@ A cross-platform Desktop Library Management System written in F# using **Avaloni
 - **Library Tab**:
     - Browse all books.
     - Search by title or author.
-    - Borrow available books.
+    - Borrow available books..
     - Return borrowed books.
 - **Admin Panel**:
     - Add new books via a dialog.
