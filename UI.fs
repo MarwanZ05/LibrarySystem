@@ -66,7 +66,7 @@ let rec mainLoop (library: Library) =
                 saveLibrary lib
                 printfn "Operation processed."
                 lib
-            | _ -> 
+            | _ -> #print
                 printfn "Invalid ID."
                 library
         System.Threading.Thread.Sleep(1000)
